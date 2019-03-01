@@ -1,0 +1,1486 @@
+#EXTM3U
+
+#PLAYLISTV: pltv-logo="http://i66.tinypic.com/vxg12r.png" pltv-name="Canal Futucandroid" pltv-description=TV ONLINE para PlaylisTV/IPTV" pltv-cover="http://i67.tinypic.com/r1j2n6.png" pltv-author="Silvana Bastos" pltv-site="" pltv-email="futucadrois@gmail.com" pltv-phone=""
+
+
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB 1
+http://listaccess.me:8880/1213/1213/18373
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB 1 FHD
+http://listaccess.me:8880/1213/1213/18375
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB 1 HD
+http://listaccess.me:8880/1213/1213/18374
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB 2
+http://listaccess.me:8880/1213/1213/20076
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB 2 FHD
+http://listaccess.me:8880/1213/1213/20078
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB 2 HD
+http://listaccess.me:8880/1213/1213/20077
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB Mosaico
+http://listaccess.me:8880/1213/1213/20079
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB Mosaico FHD
+http://listaccess.me:8880/1213/1213/20081
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB Mosaico HD
+http://listaccess.me:8880/1213/1213/20080
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB CAM 1
+http://listaccess.me:8880/1213/1213/20097
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB CAM 1 HD
+http://listaccess.me:8880/1213/1213/20098
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB CAM 2
+http://listaccess.me:8880/1213/1213/20099
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB CAM 2 HD
+http://listaccess.me:8880/1213/1213/20100
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB CAM 3
+http://listaccess.me:8880/1213/1213/20101
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB CAM 3 HD
+http://listaccess.me:8880/1213/1213/20102
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB CAM 4
+http://listaccess.me:8880/1213/1213/20103
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB CAM 4 HD
+http://listaccess.me:8880/1213/1213/20104
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB CAM 5
+http://listaccess.me:8880/1213/1213/20105
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB CAM 5 HD
+http://listaccess.me:8880/1213/1213/20106
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB CAM 6
+http://listaccess.me:8880/1213/1213/20107
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB CAM 6 HD
+http://listaccess.me:8880/1213/1213/20108
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB CAM 7
+http://listaccess.me:8880/1213/1213/20109
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB CAM 7 HD
+http://listaccess.me:8880/1213/1213/20110
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB CAM 8
+http://listaccess.me:8880/1213/1213/20111
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB CAM 8 HD
+http://listaccess.me:8880/1213/1213/20112
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB CAM 9
+http://listaccess.me:8880/1213/1213/20113
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB CAM 9 HD
+http://listaccess.me:8880/1213/1213/20114
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB CAM 10
+http://listaccess.me:8880/1213/1213/20115
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img921/6787/EvnKga.png" group-title="",BBB CAM 10 HD
+http://listaccess.me:8880/1213/1213/20116
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",A&E
+http://listaccess.me:8880/1213/1213/2346
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",A&E [Alter]
+http://listaccess.me:8880/1213/1213/7495
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",A&E [Alter 2]
+http://listaccess.me:8880/1213/1213/13681
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",A&E HD
+http://listaccess.me:8880/1213/1213/7088
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",A&E HD [Alter]
+http://listaccess.me:8880/1213/1213/7494
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",A&E HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13682
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Agro Canal
+http://listaccess.me:8880/1213/1213/11206
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",AMC
+http://listaccess.me:8880/1213/1213/2345
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",AMC [Alter]
+http://listaccess.me:8880/1213/1213/7493
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",AMC [Alter 2]
+http://listaccess.me:8880/1213/1213/13683
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",AMC HD
+http://listaccess.me:8880/1213/1213/2344
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",AMC HD [Alter]
+http://listaccess.me:8880/1213/1213/7492
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",AMC HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13686
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Animal Planet FHD
+http://listaccess.me:8880/1213/1213/7151
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Animal Planet
+http://listaccess.me:8880/1213/1213/2343
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Animal Planet [Alter]
+http://listaccess.me:8880/1213/1213/7491
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Animal Planet [Alter 2]
+http://listaccess.me:8880/1213/1213/13695
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Animal Planet HD
+http://listaccess.me:8880/1213/1213/2342
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Animal Planet HD [Alter]
+http://listaccess.me:8880/1213/1213/7490
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Animal Planet HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13696
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Aparecida
+http://listaccess.me:8880/1213/1213/2341
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Arte 1
+http://listaccess.me:8880/1213/1213/2339
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Arte 1 [Alter]
+http://listaccess.me:8880/1213/1213/7489
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Arte 1 HD [Alter]
+http://listaccess.me:8880/1213/1213/7488
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",AXN
+http://listaccess.me:8880/1213/1213/2338
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",AXN [Alter]
+http://listaccess.me:8880/1213/1213/7487
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",AXN [Alter 2]
+http://listaccess.me:8880/1213/1213/13697
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",AXN HD
+http://listaccess.me:8880/1213/1213/2337
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",AXN HD [Alter]
+http://listaccess.me:8880/1213/1213/7486
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",AXN HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13698
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Baby TV
+http://listaccess.me:8880/1213/1213/2336
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Baby TV [Alter]
+http://listaccess.me:8880/1213/1213/7485
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Band
+http://listaccess.me:8880/1213/1213/2335
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Band [Alter]
+http://listaccess.me:8880/1213/1213/7484
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Band [Alter 2]
+http://listaccess.me:8880/1213/1213/13699
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Band FHD
+http://listaccess.me:8880/1213/1213/7188
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Band HD
+http://listaccess.me:8880/1213/1213/2334
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Band HD [Alter]
+http://listaccess.me:8880/1213/1213/7483
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Band HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13700
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Band News
+http://listaccess.me:8880/1213/1213/2333
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Band News [Alter]
+http://listaccess.me:8880/1213/1213/7482
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Band News [Alter 2]
+http://listaccess.me:8880/1213/1213/13771
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Band News FHD
+http://listaccess.me:8880/1213/1213/7150
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Band News HD [Alter]
+http://listaccess.me:8880/1213/1213/7481
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Band News HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13772
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Band Sports
+http://listaccess.me:8880/1213/1213/2332
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Band Sports [Alter]
+http://listaccess.me:8880/1213/1213/7480
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Band Sports [Alter 2]
+http://listaccess.me:8880/1213/1213/13773
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Band Sports HD
+http://listaccess.me:8880/1213/1213/2331
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Band Sports HD [Alter]
+http://listaccess.me:8880/1213/1213/7479
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",BIS
+http://listaccess.me:8880/1213/1213/2330
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",BIS [Alter]
+http://listaccess.me:8880/1213/1213/7478
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",BIS FHD
+http://listaccess.me:8880/1213/1213/7162
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",BIS HD
+http://listaccess.me:8880/1213/1213/2329
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",BIS HD [Alter]
+http://listaccess.me:8880/1213/1213/7477
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Boa Vontade
+http://listaccess.me:8880/1213/1213/7476
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Boomerang
+http://listaccess.me:8880/1213/1213/2328
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Boomerang FHD
+http://listaccess.me:8880/1213/1213/7149
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Boomerang [Alter]
+http://listaccess.me:8880/1213/1213/7475
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Boomerang HD [Alter]
+http://listaccess.me:8880/1213/1213/7474
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Canal Brasil [Alter]
+http://listaccess.me:8880/1213/1213/7473
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Canal Brasil HD [Alter]
+http://listaccess.me:8880/1213/1213/7472
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Canal do Boi
+http://listaccess.me:8880/1213/1213/11574
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Canal Sony
+http://listaccess.me:8880/1213/1213/2325
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Canal Sony [Alter]
+http://listaccess.me:8880/1213/1213/7471
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Canal Sony HD
+http://listaccess.me:8880/1213/1213/2324
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Canal Sony HD [Alter]
+http://listaccess.me:8880/1213/1213/7470
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Cancao Nova
+http://listaccess.me:8880/1213/1213/2323
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Cancao Nova [Alter]
+http://listaccess.me:8880/1213/1213/7469
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Cartoon Network [Alter 2]
+http://listaccess.me:8880/1213/1213/13701
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Cartoon Network
+http://listaccess.me:8880/1213/1213/2322
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Cartoon Network [Alter]
+http://listaccess.me:8880/1213/1213/7468
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Cartoon Network HD
+http://listaccess.me:8880/1213/1213/2321
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Cartoon Network HD [Alter]
+http://listaccess.me:8880/1213/1213/7467
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Cartoon Network HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13702
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Cine Sky
+http://listaccess.me:8880/1213/1213/9092
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Cinemax
+http://listaccess.me:8880/1213/1213/2320
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Cinemax [Alter]
+http://listaccess.me:8880/1213/1213/7466
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Cinemax HD
+http://listaccess.me:8880/1213/1213/7089
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Cinemax HD [Alter]
+http://listaccess.me:8880/1213/1213/7465
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Combate
+http://listaccess.me:8880/1213/1213/2319
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Combate [Alter]
+http://listaccess.me:8880/1213/1213/7464
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Combate [Alter 2]
+http://listaccess.me:8880/1213/1213/13630
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Combate FHD
+http://listaccess.me:8880/1213/1213/7187
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Combate HD
+http://listaccess.me:8880/1213/1213/2318
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Combate HD [Alter]
+http://listaccess.me:8880/1213/1213/7463
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Combate HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13631
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Comedy Central
+http://listaccess.me:8880/1213/1213/2317
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Comedy Central [Alter]
+http://listaccess.me:8880/1213/1213/7462
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Comedy Central HD
+http://listaccess.me:8880/1213/1213/7098
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Comedy Central HD [Alter]
+http://listaccess.me:8880/1213/1213/7461
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Curta
+http://listaccess.me:8880/1213/1213/7110
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Curta [Alter]
+http://listaccess.me:8880/1213/1213/7460
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Curta HD [Alter]
+http://listaccess.me:8880/1213/1213/7459
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery Channel
+http://listaccess.me:8880/1213/1213/2316
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery Channel [Alter 2]
+http://listaccess.me:8880/1213/1213/13703
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery Channel [Alter]
+http://listaccess.me:8880/1213/1213/7458
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery Channel FHD
+http://listaccess.me:8880/1213/1213/7163
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery Channel HD
+http://listaccess.me:8880/1213/1213/2315
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery Channel HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13704
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery Channel HD [Alter]
+http://listaccess.me:8880/1213/1213/7457
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery Civilization [Alter 2]
+http://listaccess.me:8880/1213/1213/13705
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery Civilization [Alter]
+http://listaccess.me:8880/1213/1213/7456
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery Civilization HD
+http://listaccess.me:8880/1213/1213/2130
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery Civilization HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13706
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery Civilization HD [Alter]
+http://listaccess.me:8880/1213/1213/7455
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery Home Health
+http://listaccess.me:8880/1213/1213/2314
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery Home Health [Alter 2]
+http://listaccess.me:8880/1213/1213/13707
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery Home Health [Alter]
+http://listaccess.me:8880/1213/1213/7454
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery Home Health FHD
+http://listaccess.me:8880/1213/1213/7148
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery Home Health HD
+http://listaccess.me:8880/1213/1213/2313
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery Home Health HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13708
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery Home Health HD [Alter]
+http://listaccess.me:8880/1213/1213/7453
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery Kids
+http://listaccess.me:8880/1213/1213/2312
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery Kids [Alter 2]
+http://listaccess.me:8880/1213/1213/13709
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery Kids [Alter]
+http://listaccess.me:8880/1213/1213/7452
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery Kids FHD
+http://listaccess.me:8880/1213/1213/7147
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery Kids HD
+http://listaccess.me:8880/1213/1213/2146
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery Kids HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13710
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery Kids HD [Alter]
+http://listaccess.me:8880/1213/1213/7451
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery Science [Alter 2]
+http://listaccess.me:8880/1213/1213/13711
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery Science [Alter]
+http://listaccess.me:8880/1213/1213/7450
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery Science HD
+http://listaccess.me:8880/1213/1213/2129
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery Science HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13712
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery Science HD [Alter]
+http://listaccess.me:8880/1213/1213/7449
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery Theater [Alter 2]
+http://listaccess.me:8880/1213/1213/13713
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery Theater [Alter]
+http://listaccess.me:8880/1213/1213/7448
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery Theater HD
+http://listaccess.me:8880/1213/1213/2311
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery Theater HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13714
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery Theater HD [Alter]
+http://listaccess.me:8880/1213/1213/7447
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery Turbo
+http://listaccess.me:8880/1213/1213/2310
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery Turbo [Alter 2]
+http://listaccess.me:8880/1213/1213/13715
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery Turbo [Alter]
+http://listaccess.me:8880/1213/1213/7446
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery Turbo FHD
+http://listaccess.me:8880/1213/1213/7146
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery Turbo HD
+http://listaccess.me:8880/1213/1213/2309
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery Turbo HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13716
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery Turbo HD [Alter]
+http://listaccess.me:8880/1213/1213/7445
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery World HD [Alter]
+http://listaccess.me:8880/1213/1213/7443
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery World [Alter]
+http://listaccess.me:8880/1213/1213/7444
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery World FHD
+http://listaccess.me:8880/1213/1213/7145
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Discovery World HD
+http://listaccess.me:8880/1213/1213/2308
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",ID - Investigacao Discovery
+http://listaccess.me:8880/1213/1213/2254
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",ID - Investigação Discovery HD
+http://listaccess.me:8880/1213/1213/2253
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Investigacao Discovery [Alter]
+http://listaccess.me:8880/1213/1213/7349
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Investigacao Discovery HD [Alter]
+http://listaccess.me:8880/1213/1213/7348
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Disney Channel
+http://listaccess.me:8880/1213/1213/2307
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Disney Channel [Alter]
+http://listaccess.me:8880/1213/1213/7442
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Disney Channel FHD
+http://listaccess.me:8880/1213/1213/7161
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Disney Channel HD
+http://listaccess.me:8880/1213/1213/2128
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Disney Channel HD [Alter]
+http://listaccess.me:8880/1213/1213/7441
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Disney Junior
+http://listaccess.me:8880/1213/1213/2306
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Disney Junior [Alter]
+http://listaccess.me:8880/1213/1213/7440
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Disney Junior HD
+http://listaccess.me:8880/1213/1213/13795
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Disney XD
+http://listaccess.me:8880/1213/1213/2305
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Disney XD [Alter]
+http://listaccess.me:8880/1213/1213/7439
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",E! Entertainment Television
+http://listaccess.me:8880/1213/1213/2304
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",E! Entertainment Television [Alter]
+http://listaccess.me:8880/1213/1213/7436
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",E! Entertainment Television HD
+http://listaccess.me:8880/1213/1213/7090
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",E! Entertainment Television HD [Alter]
+http://listaccess.me:8880/1213/1213/7435
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",ESPN
+http://listaccess.me:8880/1213/1213/2303
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",ESPN [Alter]
+http://listaccess.me:8880/1213/1213/7434
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",ESPN +
+http://listaccess.me:8880/1213/1213/7111
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",ESPN + HD
+http://listaccess.me:8880/1213/1213/7099
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",ESPN Brasil
+http://listaccess.me:8880/1213/1213/2301
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",ESPN Brasil [Alter]
+http://listaccess.me:8880/1213/1213/7431
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",ESPN Brasil FHD
+http://listaccess.me:8880/1213/1213/7172
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",ESPN Brasil HD
+http://listaccess.me:8880/1213/1213/2300
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",ESPN Brasil HD [Alter]
+http://listaccess.me:8880/1213/1213/7430
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",ESPN Extra
+http://listaccess.me:8880/1213/1213/7429
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",ESPN Extra FHD
+http://listaccess.me:8880/1213/1213/7136
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",ESPN Extra HD
+http://listaccess.me:8880/1213/1213/7428
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",ESPN FHD
+http://listaccess.me:8880/1213/1213/7160
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",ESPN HD
+http://listaccess.me:8880/1213/1213/2302
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",ESPN HD [Alter]
+http://listaccess.me:8880/1213/1213/7427
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",ESPN+ [Alter]
+http://listaccess.me:8880/1213/1213/7433
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",ESPN [Alter 2]
+http://listaccess.me:8880/1213/1213/13956
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",ESPN + [Alter 2]
+http://listaccess.me:8880/1213/1213/13960
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",ESPN + HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13961
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",ESPN Brasil [Alter 2]
+http://listaccess.me:8880/1213/1213/13959
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",ESPN Brasil HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13958
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",ESPN HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13957
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",ESPN + HD [Alter]
+http://listaccess.me:8880/1213/1213/7432
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Fish TV
+http://listaccess.me:8880/1213/1213/2294
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Fish TV [Alter]
+http://listaccess.me:8880/1213/1213/7420
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Fish TV HD [Alter]
+http://listaccess.me:8880/1213/1213/7419
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Food Network
+http://listaccess.me:8880/1213/1213/2293
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Food Network [Alter]
+http://listaccess.me:8880/1213/1213/7418
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Food Network [Alter 2]
+http://listaccess.me:8880/1213/1213/13723
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Food Network HD
+http://listaccess.me:8880/1213/1213/2144
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Food Network HD [Alter]
+http://listaccess.me:8880/1213/1213/7417
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Food Network HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13724
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",FOX
+http://listaccess.me:8880/1213/1213/2292
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",FOX [Alter]
+http://listaccess.me:8880/1213/1213/7416
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",FOX FHD
+http://listaccess.me:8880/1213/1213/7186
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",FOX HD
+http://listaccess.me:8880/1213/1213/2291
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",FOX HD [Alter]
+http://listaccess.me:8880/1213/1213/7415
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Fox Life
+http://listaccess.me:8880/1213/1213/2290
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Fox Life [Alter]
+http://listaccess.me:8880/1213/1213/7414
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Fox Life HD
+http://listaccess.me:8880/1213/1213/2289
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Fox Life HD [Alter]
+http://listaccess.me:8880/1213/1213/7413
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Fox Premium 1 [Alter]
+http://listaccess.me:8880/1213/1213/7412
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Fox Premium 1 HD
+http://listaccess.me:8880/1213/1213/2288
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Fox Premium 1 HD [Alter]
+http://listaccess.me:8880/1213/1213/7411
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Fox Premium 2 [Alter]
+http://listaccess.me:8880/1213/1213/7410
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Fox Premium 2 FHD
+http://listaccess.me:8880/1213/1213/7144
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Fox Premium 2 HD
+http://listaccess.me:8880/1213/1213/2287
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Fox Premium 2 HD [Alter]
+http://listaccess.me:8880/1213/1213/7409
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Fox Sport HD
+http://listaccess.me:8880/1213/1213/2286
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Fox Sports HD [Alter]
+http://listaccess.me:8880/1213/1213/7407
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Fox Sports HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13758
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Fox Sports
+http://listaccess.me:8880/1213/1213/2285
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Fox Sports [Alter]
+http://listaccess.me:8880/1213/1213/7408
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Fox Sports [Alter 2]
+http://listaccess.me:8880/1213/1213/13757
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Fox Sports 2
+http://listaccess.me:8880/1213/1213/2284
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Fox Sports 2 [Alter]
+http://listaccess.me:8880/1213/1213/7406
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Fox Sports 2 [Alter 2]
+http://listaccess.me:8880/1213/1213/13759
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",FOX Sports 2 HD
+http://listaccess.me:8880/1213/1213/2283
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Fox Sports 2 HD [Alter]
+http://listaccess.me:8880/1213/1213/7405
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Fox Sports 2 HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13760
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",FOX Sportv 2 FHD
+http://listaccess.me:8880/1213/1213/7157
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Fox Sports FHD
+http://listaccess.me:8880/1213/1213/7171
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Futura
+http://listaccess.me:8880/1213/1213/2282
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Futura [Alter]
+http://listaccess.me:8880/1213/1213/7404
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Futura HD [Alter]
+http://listaccess.me:8880/1213/1213/7403
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",FX
+http://listaccess.me:8880/1213/1213/2281
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",FX [Alter]
+http://listaccess.me:8880/1213/1213/7402
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",FX HD
+http://listaccess.me:8880/1213/1213/2280
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",FX HD [Alter]
+http://listaccess.me:8880/1213/1213/7401
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Gospel Cartoon
+http://listaccess.me:8880/1213/1213/11095
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Globo News
+http://listaccess.me:8880/1213/1213/2274
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Globo News [Alter 2]
+http://listaccess.me:8880/1213/1213/13739
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Globo News [Alter]
+http://listaccess.me:8880/1213/1213/7392
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Globo News FHD
+http://listaccess.me:8880/1213/1213/7156
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Globo News HD
+http://listaccess.me:8880/1213/1213/2273
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Globo News HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13740
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Globo News HD [Alter]
+http://listaccess.me:8880/1213/1213/7391
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Globo RJ
+http://listaccess.me:8880/1213/1213/2278
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Globo RJ [Alter 2]
+http://listaccess.me:8880/1213/1213/13427
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Globo RJ [Alter]
+http://listaccess.me:8880/1213/1213/7384
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Globo RJ FHD
+http://listaccess.me:8880/1213/1213/7184
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Globo RJ HD
+http://listaccess.me:8880/1213/1213/2277
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Globo RJ HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13428
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Globo RJ HD [Alter]
+http://listaccess.me:8880/1213/1213/7383
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Globo SP
+http://listaccess.me:8880/1213/1213/2276
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Globo SP [Alter 2]
+http://listaccess.me:8880/1213/1213/13426
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Globo SP [Alter]
+http://listaccess.me:8880/1213/1213/7380
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Globo SP FHD
+http://listaccess.me:8880/1213/1213/7183
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Globo SP HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13632
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Globo SP HD [Alter]
+http://listaccess.me:8880/1213/1213/7379
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Gloob
+http://listaccess.me:8880/1213/1213/2272
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Gloob [Alter]
+http://listaccess.me:8880/1213/1213/7370
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Gloob FHD
+http://listaccess.me:8880/1213/1213/7155
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Gloob HD
+http://listaccess.me:8880/1213/1213/2142
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Gloob HD [Alter]
+http://listaccess.me:8880/1213/1213/7369
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",GNT
+http://listaccess.me:8880/1213/1213/2271
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",GNT [Alter]
+http://listaccess.me:8880/1213/1213/7366
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",GNT [Alter 2]
+http://listaccess.me:8880/1213/1213/13769
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",GNT HD
+http://listaccess.me:8880/1213/1213/2270
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",GNT HD [Alter]
+http://listaccess.me:8880/1213/1213/7365
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",H2
+http://listaccess.me:8880/1213/1213/2269
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",H2 [Alter]
+http://listaccess.me:8880/1213/1213/7364
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",H2 [Alter 2]
+http://listaccess.me:8880/1213/1213/13767
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",H2 HD
+http://listaccess.me:8880/1213/1213/2268
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",H2 HD [Alter]
+http://listaccess.me:8880/1213/1213/7363
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",H2 HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13768
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",HBO
+http://listaccess.me:8880/1213/1213/2267
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",HBO [Alter 2]
+http://listaccess.me:8880/1213/1213/13670
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",HBO [Alter]
+http://listaccess.me:8880/1213/1213/7362
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",HBO 2
+http://listaccess.me:8880/1213/1213/2266
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",HBO 2 [Alter 2]
+http://listaccess.me:8880/1213/1213/13672
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",HBO 2 [Alter]
+http://listaccess.me:8880/1213/1213/7361
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",HBO 2 FHD
+http://listaccess.me:8880/1213/1213/7182
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",HBO 2 HD
+http://listaccess.me:8880/1213/1213/2265
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",HBO 2 HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13673
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",HBO 2 HD [Alter]
+http://listaccess.me:8880/1213/1213/7360
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",HBO Family
+http://listaccess.me:8880/1213/1213/2264
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",HBO Family [Alter 2]
+http://listaccess.me:8880/1213/1213/13674
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",HBO Family [Alter]
+http://listaccess.me:8880/1213/1213/7359
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",HBO Family HD
+http://listaccess.me:8880/1213/1213/2263
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",HBO Family HD [Alter]
+http://listaccess.me:8880/1213/1213/7358
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",HBO FHD
+http://listaccess.me:8880/1213/1213/7181
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",HBO HD
+http://listaccess.me:8880/1213/1213/2262
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",HBO HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13671
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",HBO HD [Alter]
+http://listaccess.me:8880/1213/1213/7357
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",HBO Family HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13675
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",HBO Plus
+http://listaccess.me:8880/1213/1213/2261
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",HBO Plus [Alter 2]
+http://listaccess.me:8880/1213/1213/13676
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",HBO Plus [Alter]
+http://listaccess.me:8880/1213/1213/7356
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",HBO Plus HD
+http://listaccess.me:8880/1213/1213/2259
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",HBO Plus HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13677
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",HBO Plus HD [Alter]
+http://listaccess.me:8880/1213/1213/7354
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",HBO Signature
+http://listaccess.me:8880/1213/1213/2258
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",HBO Signature [Alter 2]
+http://listaccess.me:8880/1213/1213/13679
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",HBO Signature [Alter]
+http://listaccess.me:8880/1213/1213/7353
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",HBO Signature HD
+http://listaccess.me:8880/1213/1213/2257
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",HBO Signature HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13680
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",HBO Signature HD [Alter]
+http://listaccess.me:8880/1213/1213/7352
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",I-SAT
+http://listaccess.me:8880/1213/1213/2255
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Ideal TV
+http://listaccess.me:8880/1213/1213/7108
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Lifetime
+http://listaccess.me:8880/1213/1213/2252
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Lifetime [Alter]
+http://listaccess.me:8880/1213/1213/7347
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Lifetime HD
+http://listaccess.me:8880/1213/1213/2141
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Lifetime HD [Alter]
+http://listaccess.me:8880/1213/1213/7346
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Mais Globosat
+http://listaccess.me:8880/1213/1213/2251
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Mais Globosat [Alter]
+http://listaccess.me:8880/1213/1213/7345
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Mais Globosat HD
+http://listaccess.me:8880/1213/1213/2127
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Mais Globosat HD [Alter]
+http://listaccess.me:8880/1213/1213/7344
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",MAX
+http://listaccess.me:8880/1213/1213/2250
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",MAX [Alter]
+http://listaccess.me:8880/1213/1213/7343
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Max HD
+http://listaccess.me:8880/1213/1213/7091
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",MAX HD [Alter]
+http://listaccess.me:8880/1213/1213/7342
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",MAX Prime
+http://listaccess.me:8880/1213/1213/2249
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",MAX Prime [Alter]
+http://listaccess.me:8880/1213/1213/7341
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Max Prime HD
+http://listaccess.me:8880/1213/1213/7092
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Max Prime HD [Alter]
+http://listaccess.me:8880/1213/1213/7339
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",MAX UP
+http://listaccess.me:8880/1213/1213/2247
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",MAX UP [Alter]
+http://listaccess.me:8880/1213/1213/7338
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Max UP HD
+http://listaccess.me:8880/1213/1213/7093
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",MAX UP HD [Alter]
+http://listaccess.me:8880/1213/1213/7337
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Megapix
+http://listaccess.me:8880/1213/1213/2246
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Megapix [Alter]
+http://listaccess.me:8880/1213/1213/7336
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Megapix [Alter 2]
+http://listaccess.me:8880/1213/1213/13719
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Megapix HD
+http://listaccess.me:8880/1213/1213/2245
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Megapix HD [Alter]
+http://listaccess.me:8880/1213/1213/7335
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",MTV
+http://listaccess.me:8880/1213/1213/2244
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",MTV [Alter]
+http://listaccess.me:8880/1213/1213/7334
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",MTV HD
+http://listaccess.me:8880/1213/1213/2140
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",MTV HD [Alter]
+http://listaccess.me:8880/1213/1213/7333
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Multishow
+http://listaccess.me:8880/1213/1213/2243
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Multishow [Alter]
+http://listaccess.me:8880/1213/1213/7332
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Multishow [Alter 2]
+http://listaccess.me:8880/1213/1213/14020
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Multishow HD
+http://listaccess.me:8880/1213/1213/2242
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Multishow HD [Alter]
+http://listaccess.me:8880/1213/1213/7331
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Music Box Brasil [Alter]
+http://listaccess.me:8880/1213/1213/7330
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Music Box Brasil HD [Alter]
+http://listaccess.me:8880/1213/1213/7329
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Music Box Brazil
+http://listaccess.me:8880/1213/1213/2241
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Nat Geo Wild FHD
+http://listaccess.me:8880/1213/1213/7143
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",NatGeo Kids
+http://listaccess.me:8880/1213/1213/2240
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",NatGeo Kids [Alter]
+http://listaccess.me:8880/1213/1213/7326
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",NatGeo Kids HD
+http://listaccess.me:8880/1213/1213/2126
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",NatGeo Kids HD [Alter]
+http://listaccess.me:8880/1213/1213/7325
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",NatGeo Wild
+http://listaccess.me:8880/1213/1213/2239
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",NatGeo Wild [Alter]
+http://listaccess.me:8880/1213/1213/7323
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",NatGeoWild HD
+http://listaccess.me:8880/1213/1213/2238
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",NatGeoWild HD [Alter]
+http://listaccess.me:8880/1213/1213/7324
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",National Geographic
+http://listaccess.me:8880/1213/1213/2237
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",National Geographic [Alter]
+http://listaccess.me:8880/1213/1213/7328
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",National Geographic HD [Alter]
+http://listaccess.me:8880/1213/1213/7327
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",NBR
+http://listaccess.me:8880/1213/1213/2235
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",NBR [Alter]
+http://listaccess.me:8880/1213/1213/7322
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",NHK
+http://listaccess.me:8880/1213/1213/2234
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Nick Jr
+http://listaccess.me:8880/1213/1213/2233
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Nick Jr [Alter]
+http://listaccess.me:8880/1213/1213/7321
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",NICK JR FHD
+http://listaccess.me:8880/1213/1213/7142
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Nick Jr HD
+http://listaccess.me:8880/1213/1213/2145
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Nick Jr HD [Alter]
+http://listaccess.me:8880/1213/1213/7320
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Nickelodeon
+http://listaccess.me:8880/1213/1213/2232
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Nickelodeon [Alter]
+http://listaccess.me:8880/1213/1213/7319
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",NICKELODEON FHD
+http://listaccess.me:8880/1213/1213/7141
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Nickelodeon HD
+http://listaccess.me:8880/1213/1213/2125
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Nickelodeon HD [Alter]
+http://listaccess.me:8880/1213/1213/7318
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",NovoTempo
+http://listaccess.me:8880/1213/1213/2231
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",OFF
+http://listaccess.me:8880/1213/1213/2230
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",OFF [Alter]
+http://listaccess.me:8880/1213/1213/7317
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",OFF HD
+http://listaccess.me:8880/1213/1213/2229
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",OFF HD [Alter]
+http://listaccess.me:8880/1213/1213/7316
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Paramount
+http://listaccess.me:8880/1213/1213/2228
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Paramount HD [Alter]
+http://listaccess.me:8880/1213/1213/7314
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Paramount [Alter]
+http://listaccess.me:8880/1213/1213/7315
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Paramount HD
+http://listaccess.me:8880/1213/1213/2227
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Play TV
+http://listaccess.me:8880/1213/1213/2226
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",PlayKids HD
+http://listaccess.me:8880/1213/1213/16209
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",PlayKids SD
+http://listaccess.me:8880/1213/1213/16208
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere 2
+http://listaccess.me:8880/1213/1213/2222
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere 2 [Alter]
+http://listaccess.me:8880/1213/1213/7313
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere 2 [Alter 2]
+http://listaccess.me:8880/1213/1213/13633
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere 2 FHD
+http://listaccess.me:8880/1213/1213/7169
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere 2 HD
+http://listaccess.me:8880/1213/1213/2221
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere 2 HD [Alter]
+http://listaccess.me:8880/1213/1213/7312
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere 2 HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13725
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere 3
+http://listaccess.me:8880/1213/1213/2220
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere 3 [Alter]
+http://listaccess.me:8880/1213/1213/7311
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere 3 [Alter 2]
+http://listaccess.me:8880/1213/1213/13634
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere 3 FHD
+http://listaccess.me:8880/1213/1213/7168
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere 3 HD
+http://listaccess.me:8880/1213/1213/2219
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere 3 HD [Alter]
+http://listaccess.me:8880/1213/1213/7310
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere 3 HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13726
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere 4
+http://listaccess.me:8880/1213/1213/2218
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere 4 [Alter]
+http://listaccess.me:8880/1213/1213/7309
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere 4 [Alter 2]
+http://listaccess.me:8880/1213/1213/13635
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere 4 FHD
+http://listaccess.me:8880/1213/1213/7167
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere 4 HD
+http://listaccess.me:8880/1213/1213/2217
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere 4 HD [Alter]
+http://listaccess.me:8880/1213/1213/7308
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere 4 HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13727
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere 5
+http://listaccess.me:8880/1213/1213/2216
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere 5 [Alter]
+http://listaccess.me:8880/1213/1213/7307
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere 5 [Alter 2]
+http://listaccess.me:8880/1213/1213/13636
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere 5 FHD
+http://listaccess.me:8880/1213/1213/7166
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere 5 HD
+http://listaccess.me:8880/1213/1213/2215
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere 5 HD [Alter]
+http://listaccess.me:8880/1213/1213/7306
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere 5 HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13728
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere 6
+http://listaccess.me:8880/1213/1213/2214
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere 6 [Alter]
+http://listaccess.me:8880/1213/1213/7305
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere 6 [Alter 2]
+http://listaccess.me:8880/1213/1213/13637
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere 6 FHD
+http://listaccess.me:8880/1213/1213/7165
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere 6 HD
+http://listaccess.me:8880/1213/1213/7094
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere 6 HD [Alter]
+http://listaccess.me:8880/1213/1213/7304
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere 6 HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13729
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere 7
+http://listaccess.me:8880/1213/1213/2213
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere 7 [Alter]
+http://listaccess.me:8880/1213/1213/7303
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere 7 [Alter 2]
+http://listaccess.me:8880/1213/1213/13638
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere 7 FHD
+http://listaccess.me:8880/1213/1213/7164
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere 7 HD
+http://listaccess.me:8880/1213/1213/7095
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere 7 HD [Alter]
+http://listaccess.me:8880/1213/1213/7302
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere 7 HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13730
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere 8
+http://listaccess.me:8880/1213/1213/2212
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere 8 [Alter 2]
+http://listaccess.me:8880/1213/1213/13639
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere Clubes
+http://listaccess.me:8880/1213/1213/2224
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere Clubes [Alter]
+http://listaccess.me:8880/1213/1213/7301
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere Clubes [Alter 2]
+http://listaccess.me:8880/1213/1213/13425
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere Clubes FHD
+http://listaccess.me:8880/1213/1213/7170
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere Clubes HD
+http://listaccess.me:8880/1213/1213/2223
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere Clubes HD [Alter]
+http://listaccess.me:8880/1213/1213/7300
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Premiere Clubes HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13424
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Prime Box Brazil
+http://listaccess.me:8880/1213/1213/2210
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Prime Box Brazil [Alter]
+http://listaccess.me:8880/1213/1213/7299
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Prime Box Brazil HD [Alter]
+http://listaccess.me:8880/1213/1213/7298
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",RBI
+http://listaccess.me:8880/1213/1213/2209
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Record
+http://listaccess.me:8880/1213/1213/2207
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Record [Alter]
+http://listaccess.me:8880/1213/1213/7297
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Record [Alter 2]
+http://listaccess.me:8880/1213/1213/13657
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Record FHD
+http://listaccess.me:8880/1213/1213/7180
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Record HD
+http://listaccess.me:8880/1213/1213/2206
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Record HD [Alter]
+http://listaccess.me:8880/1213/1213/7292
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Record HD [Alter 2]
+http://listaccess.me:8880/1213/1213/7296
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Record RJ HD
+http://listaccess.me:8880/1213/1213/16350
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Record RJ
+http://listaccess.me:8880/1213/1213/16351
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Record News
+http://listaccess.me:8880/1213/1213/2205
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Record News [Alter]
+http://listaccess.me:8880/1213/1213/7295
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Record News HD [Alter]
+http://listaccess.me:8880/1213/1213/7294
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Record SP [Alter]
+http://listaccess.me:8880/1213/1213/7293
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Rede Amazonica
+http://listaccess.me:8880/1213/1213/7101
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Rede Brasil
+http://listaccess.me:8880/1213/1213/2204
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Rede Brasil [Alter]
+http://listaccess.me:8880/1213/1213/7291
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Rede Super
+http://listaccess.me:8880/1213/1213/8677
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Rede TV
+http://listaccess.me:8880/1213/1213/2203
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Rede TV [Alter]
+http://listaccess.me:8880/1213/1213/7290
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Rede TV HD
+http://listaccess.me:8880/1213/1213/2202
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Rede TV HD [Alter]
+http://listaccess.me:8880/1213/1213/7289
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Rede Vida
+http://listaccess.me:8880/1213/1213/2201
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Rede Vida [Alter]
+http://listaccess.me:8880/1213/1213/7288
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Rede Vida HD [Alter]
+http://listaccess.me:8880/1213/1213/15138
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",RIT
+http://listaccess.me:8880/1213/1213/2199
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",SBT
+http://listaccess.me:8880/1213/1213/2198
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",SBT [Alter]
+http://listaccess.me:8880/1213/1213/7287
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",SBT [Alter 2]
+http://listaccess.me:8880/1213/1213/13796
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",SBT FHD
+http://listaccess.me:8880/1213/1213/7179
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",SBT HD
+http://listaccess.me:8880/1213/1213/2197
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",SBT HD [Alter]
+http://listaccess.me:8880/1213/1213/7286
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",SBT HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13797
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",SBT SP Interior [Alter]
+http://listaccess.me:8880/1213/1213/7285
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",SIC Internacional
+http://listaccess.me:8880/1213/1213/2194
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Space
+http://listaccess.me:8880/1213/1213/2193
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Space [Alter]
+http://listaccess.me:8880/1213/1213/7282
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Space [Alter 2]
+http://listaccess.me:8880/1213/1213/13717
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Space HD
+http://listaccess.me:8880/1213/1213/2192
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Space HD [Alter]
+http://listaccess.me:8880/1213/1213/7281
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Sport TV 2 HD
+http://listaccess.me:8880/1213/1213/2191
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Sport TV 3 HD
+http://listaccess.me:8880/1213/1213/2190
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Sport TV HD
+http://listaccess.me:8880/1213/1213/2189
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",SporTV
+http://listaccess.me:8880/1213/1213/2188
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",SporTV [Alter]
+http://listaccess.me:8880/1213/1213/7280
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",SporTV [Alter 2]
+http://listaccess.me:8880/1213/1213/13423
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",SporTV 2
+http://listaccess.me:8880/1213/1213/2187
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",SporTV 2 [Alter]
+http://listaccess.me:8880/1213/1213/7279
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Sportv 2 FHD
+http://listaccess.me:8880/1213/1213/7154
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",SporTV 2 HD [Alter]
+http://listaccess.me:8880/1213/1213/7278
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",SporTV 3
+http://listaccess.me:8880/1213/1213/2186
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",SporTV 3 [Alter]
+http://listaccess.me:8880/1213/1213/7277
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Sportv 3 FHD
+http://listaccess.me:8880/1213/1213/7153
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",SporTV 3 HD [Alter]
+http://listaccess.me:8880/1213/1213/7276
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Sportv FHD
+http://listaccess.me:8880/1213/1213/7178
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",SporTV HD [Alter]
+http://listaccess.me:8880/1213/1213/7275
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",SporTV HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13422
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Studio Universal
+http://listaccess.me:8880/1213/1213/2185
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Studio Universal [Alter]
+http://listaccess.me:8880/1213/1213/7274
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Studio Universal HD
+http://listaccess.me:8880/1213/1213/7096
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Studio Universal HD [Alter]
+http://listaccess.me:8880/1213/1213/7273
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",SundanceTV
+http://listaccess.me:8880/1213/1213/7272
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",SundanceTV HD
+http://listaccess.me:8880/1213/1213/7271
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Syfy
+http://listaccess.me:8880/1213/1213/2184
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Syfy [Alter]
+http://listaccess.me:8880/1213/1213/7284
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Syfy HD
+http://listaccess.me:8880/1213/1213/2124
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Syfy HD [Alter]
+http://listaccess.me:8880/1213/1213/7283
+
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",TBS
+http://listaccess.me:8880/1213/1213/2183
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",TBS [Alter]
+http://listaccess.me:8880/1213/1213/7270
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",TBS HD
+http://listaccess.me:8880/1213/1213/2182
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",TBS HD [Alter]
+http://listaccess.me:8880/1213/1213/7269
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",TCM
+http://listaccess.me:8880/1213/1213/2181
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",TCM [Alter]
+http://listaccess.me:8880/1213/1213/7268
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Telecine Action
+http://listaccess.me:8880/1213/1213/2180
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Telecine Action [Alter 2]
+http://listaccess.me:8880/1213/1213/13658
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Telecine Action [Alter]
+http://listaccess.me:8880/1213/1213/7267
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Telecine Action FHD
+http://listaccess.me:8880/1213/1213/7177
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Telecine Action HD
+http://listaccess.me:8880/1213/1213/2179
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Telecine Action HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13659
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Telecine Action HD [Alter]
+http://listaccess.me:8880/1213/1213/7266
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Telecine Cult
+http://listaccess.me:8880/1213/1213/2178
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Telecine Cult [Alter 2]
+http://listaccess.me:8880/1213/1213/13660
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Telecine Cult [Alter]
+http://listaccess.me:8880/1213/1213/7265
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Telecine Cult HD
+http://listaccess.me:8880/1213/1213/2122
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Telecine Cult HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13661
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Telecine Cult HD [Alter]
+http://listaccess.me:8880/1213/1213/7264
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Telecine Fun
+http://listaccess.me:8880/1213/1213/2177
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Telecine Fun [Alter 2]
+http://listaccess.me:8880/1213/1213/13662
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Telecine Fun [Alter]
+http://listaccess.me:8880/1213/1213/7263
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Telecine Fun FHD
+http://listaccess.me:8880/1213/1213/7176
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Telecine Fun HD
+http://listaccess.me:8880/1213/1213/2176
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Telecine Fun HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13663
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Telecine Fun HD [Alter]
+http://listaccess.me:8880/1213/1213/7262
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Telecine Pipoca
+http://listaccess.me:8880/1213/1213/2175
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Telecine Pipoca [Alter 2]
+http://listaccess.me:8880/1213/1213/13664
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Telecine Pipoca [Alter]
+http://listaccess.me:8880/1213/1213/7261
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Telecine Pipoca FHD
+http://listaccess.me:8880/1213/1213/7175
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Telecine Pipoca HD
+http://listaccess.me:8880/1213/1213/2174
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Telecine Pipoca HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13665
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Telecine Pipoca HD [Alter]
+http://listaccess.me:8880/1213/1213/7260
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Telecine Premium
+http://listaccess.me:8880/1213/1213/2173
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Telecine Premium [Alter 2]
+http://listaccess.me:8880/1213/1213/13666
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Telecine Premium [Alter]
+http://listaccess.me:8880/1213/1213/7259
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Telecine Premium FHD
+http://listaccess.me:8880/1213/1213/7174
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Telecine Premium HD
+http://listaccess.me:8880/1213/1213/2172
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Telecine Premium HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13667
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Telecine Premium HD [Alter]
+http://listaccess.me:8880/1213/1213/7258
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Telecine Touch
+http://listaccess.me:8880/1213/1213/2171
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Telecine Touch [Alter 2]
+http://listaccess.me:8880/1213/1213/13668
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Telecine Touch [Alter]
+http://listaccess.me:8880/1213/1213/7257
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Telecine Touch FHD
+http://listaccess.me:8880/1213/1213/7173
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Telecine Touch HD
+http://listaccess.me:8880/1213/1213/2170
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Telecine Touch HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13669
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Telecine Touch HD [Alter]
+http://listaccess.me:8880/1213/1213/7256
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Terra Viva
+http://listaccess.me:8880/1213/1213/2169
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Terra Viva [Alter]
+http://listaccess.me:8880/1213/1213/7255
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",The History Channel
+http://listaccess.me:8880/1213/1213/2168
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",The History Channel [Alter]
+http://listaccess.me:8880/1213/1213/7351
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",The History Channel [Alter 2]
+http://listaccess.me:8880/1213/1213/13721
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",The History Channel FHD
+http://listaccess.me:8880/1213/1213/7139
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",The History Channel HD [Alter]
+http://listaccess.me:8880/1213/1213/7350
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",TLC
+http://listaccess.me:8880/1213/1213/2167
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",TLC [Alter]
+http://listaccess.me:8880/1213/1213/7254
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",TLC HD
+http://listaccess.me:8880/1213/1213/2123
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",TLC HD [Alter]
+http://listaccess.me:8880/1213/1213/7253
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",TNT
+http://listaccess.me:8880/1213/1213/2166
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",TNT [Alter]
+http://listaccess.me:8880/1213/1213/7252
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",TNT HD
+http://listaccess.me:8880/1213/1213/2165
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",TNT HD [Alter]
+http://listaccess.me:8880/1213/1213/7251
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",TNT 2
+http://listaccess.me:8880/1213/1213/16346
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",TNT 2 HD
+http://listaccess.me:8880/1213/1213/16347
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",TNT 3
+http://listaccess.me:8880/1213/1213/16348
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",TNT 3 HD
+http://listaccess.me:8880/1213/1213/16349
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",TNT Series
+http://listaccess.me:8880/1213/1213/2164
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",TNT Series [Alter]
+http://listaccess.me:8880/1213/1213/7250
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",TNT Series HD
+http://listaccess.me:8880/1213/1213/2163
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",TNT Series HD [Alter]
+http://listaccess.me:8880/1213/1213/7249
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Tooncast
+http://listaccess.me:8880/1213/1213/2162
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Tooncast [Alter]
+http://listaccess.me:8880/1213/1213/7248
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",TruTV
+http://listaccess.me:8880/1213/1213/2161
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",TruTV [Alter]
+http://listaccess.me:8880/1213/1213/7238
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",TruTV HD [Alter]
+http://listaccess.me:8880/1213/1213/7237
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Tv Anhanguera
+http://listaccess.me:8880/1213/1213/7109
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",TV Aparecida [Alter]
+http://listaccess.me:8880/1213/1213/7245
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",TV Brasil
+http://listaccess.me:8880/1213/1213/2160
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",TV Brasil [Alter]
+http://listaccess.me:8880/1213/1213/7244
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",TV Câmara
+http://listaccess.me:8880/1213/1213/7243
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",TV Cultura
+http://listaccess.me:8880/1213/1213/2159
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",TV Cultura [Alter]
+http://listaccess.me:8880/1213/1213/15136
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",TV Cultura HD [Alter]
+http://listaccess.me:8880/1213/1213/15137
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",TV Diário
+http://listaccess.me:8880/1213/1213/2158
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",TV Escola
+http://listaccess.me:8880/1213/1213/7242
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Tv Evangelizar
+http://listaccess.me:8880/1213/1213/11611
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Tv Seculo 21
+http://listaccess.me:8880/1213/1213/11610
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Tv Gazeta SP HD
+http://listaccess.me:8880/1213/1213/7241
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",TV Gloobinho [Alter]
+http://listaccess.me:8880/1213/1213/7367
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",TV Gloobinho HD [Alter]
+http://listaccess.me:8880/1213/1213/7368
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",TV Justiça
+http://listaccess.me:8880/1213/1213/7246
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",TV Ra tim bum
+http://listaccess.me:8880/1213/1213/2157
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",TV Ra tim bum [Alter]
+http://listaccess.me:8880/1213/1213/7240
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",TV Ra tim bum HD [Alter]
+http://listaccess.me:8880/1213/1213/7239
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",TV Senado
+http://listaccess.me:8880/1213/1213/7247
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",TV Verdes Mares
+http://listaccess.me:8880/1213/1213/7103
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",TVE
+http://listaccess.me:8880/1213/1213/2156
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Universal Channel
+http://listaccess.me:8880/1213/1213/2155
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Universal Channel [Alter]
+http://listaccess.me:8880/1213/1213/7236
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Universal Channel HD [Alter]
+http://listaccess.me:8880/1213/1213/7235
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Universal Channels HD
+http://listaccess.me:8880/1213/1213/2154
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",VH1 [Alter]
+http://listaccess.me:8880/1213/1213/7234
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",VH1 HD [Alter]
+http://listaccess.me:8880/1213/1213/7233
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Megapix HD [Alter 2]
+http://listaccess.me:8880/1213/1213/13720
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",VH1 Mega Hits [Alter]
+http://listaccess.me:8880/1213/1213/7232
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",VH1 MegaHits
+http://listaccess.me:8880/1213/1213/2153
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Viva
+http://listaccess.me:8880/1213/1213/2152
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Viva [Alter]
+http://listaccess.me:8880/1213/1213/7231
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Viva FHD
+http://listaccess.me:8880/1213/1213/7152
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Viva HD
+http://listaccess.me:8880/1213/1213/2151
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Viva HD [Alter]
+http://listaccess.me:8880/1213/1213/7230
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Warner Channel
+http://listaccess.me:8880/1213/1213/2150
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Warner Channel [Alter]
+http://listaccess.me:8880/1213/1213/7229
+##EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Warner Channel HD
+http://listaccess.me:8880/1213/1213/2149
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Warner Channel HD [Alter]
+http://listaccess.me:8880/1213/1213/7228
+##EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Warner FHD
+http://listaccess.me:8880/1213/1213/7140
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Woohoo
+http://listaccess.me:8880/1213/1213/2148
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Woohoo [Alter]
+http://listaccess.me:8880/1213/1213/7227
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Woohoo HD
+http://listaccess.me:8880/1213/1213/7097
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/9171/Oimy2A.png" group-title="",Woohoo HD [Alter]
+http://listaccess.me:8880/1213/1213/7226
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",As aventuras de Jackie Chan 24H
+http://listaccess.me:8880/1213/1213/7202
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Ben 10 24H
+http://listaccess.me:8880/1213/1213/7598
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Bob Esponja 24H
+http://listaccess.me:8880/1213/1213/7220
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Black Kamen Rider 24H
+http://listaccess.me:8880/1213/1213/11946
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Caillou 24H
+http://listaccess.me:8880/1213/1213/3834
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Carl o Super Caminhao 24H
+http://listaccess.me:8880/1213/1213/8288
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Cavaleiros dos Zodiacos 24H Saga Doze Casas
+http://listaccess.me:8880/1213/1213/7219
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Cavaleiros Zodiaco 24h
+http://listaccess.me:8880/1213/1213/9
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Cavaleiros do Zodíaco Hades 24H
+http://listaccess.me:8880/1213/1213/12436
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Cavalo de Fogo 24H
+http://listaccess.me:8880/1213/1213/13962
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Caverna do Dragao 24H
+http://listaccess.me:8880/1213/1213/9839
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Chapolin 24H
+http://listaccess.me:8880/1213/1213/11608
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Changeman 24H
+http://listaccess.me:8880/1213/1213/11691
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Clarêncio o Otimista 24H
+http://listaccess.me:8880/1213/1213/7599
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Classicos Disney 24H
+http://listaccess.me:8880/1213/1213/7218
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Coragem o Cão Covarde 24H
+http://listaccess.me:8880/1213/1213/7217
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Corrida Maluca 24H
+http://listaccess.me:8880/1213/1213/7201
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Capitao Planeta 24H
+http://listaccess.me:8880/1213/1213/13286
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Daniel Tigre 24H
+http://listaccess.me:8880/1213/1213/3833
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",DC Comics 24H
+http://listaccess.me:8880/1213/1213/12369
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Desenhos Biblicos 24H
+http://listaccess.me:8880/1213/1213/3835
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Dragon Ball Classico 24H
+http://listaccess.me:8880/1213/1213/7215
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Dragon Ball GT 24H
+http://listaccess.me:8880/1213/1213/10
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Dragon Ball Super 24H
+http://listaccess.me:8880/1213/1213/8854
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Duck Tales 24H
+http://listaccess.me:8880/1213/1213/12964
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Du Dudu e Edu 24H
+http://listaccess.me:8880/1213/1213/13581
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Familia Dinossauro 24H
+http://listaccess.me:8880/1213/1213/12296
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Formiga Atomica 24H
+http://listaccess.me:8880/1213/1213/7213
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Futurama 24H
+http://listaccess.me:8880/1213/1213/7212
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Flashman 24H
+http://listaccess.me:8880/1213/1213/11719
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",FLY o Pequeno Guerreiro 24H
+http://listaccess.me:8880/1213/1213/14019
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Apenas um Show 24H
+http://listaccess.me:8880/1213/1213/20083
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Friends 24H
+http://listaccess.me:8880/1213/1213/11740
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Galinha Pintadinha 24H
+http://listaccess.me:8880/1213/1213/7211
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",He-man 24H
+http://listaccess.me:8880/1213/1213/11609
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Hora de Aventura 24H
+http://listaccess.me:8880/1213/1213/8999
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Jaspion 24H
+http://listaccess.me:8880/1213/1213/11607
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Jambo e Ruivao 24H
+http://listaccess.me:8880/1213/1213/12941
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Jovens Titans 24H
+http://listaccess.me:8880/1213/1213/8856
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Kenan e Kel 24H
+http://listaccess.me:8880/1213/1213/7200
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Luluzinha 24H
+http://listaccess.me:8880/1213/1213/7210
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Liga da Justiça 24H
+http://listaccess.me:8880/1213/1213/11720
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Marvel 24H
+http://listaccess.me:8880/1213/1213/12687
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Masha e o Urso 24H
+http://listaccess.me:8880/1213/1213/3827
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Manda Chuva 24H
+http://listaccess.me:8880/1213/1213/13370
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Meu Amigãozão 24H
+http://listaccess.me:8880/1213/1213/3830
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Mickey e Donald 24H
+http://listaccess.me:8880/1213/1213/7209
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Mr. Bean 24H
+http://listaccess.me:8880/1213/1213/9592
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Muppets Babies 24H
+http://listaccess.me:8880/1213/1213/13077
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Nanatzu no Taizai 24H
+http://listaccess.me:8880/1213/1213/9000
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Naruto Shippuden 24H
+http://listaccess.me:8880/1213/1213/9520
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",O Incrível Mundo de Gumball 24H
+http://listaccess.me:8880/1213/1213/7600
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",O Mascara 24H
+http://listaccess.me:8880/1213/1213/7199
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",O Show da Luna 24H
+http://listaccess.me:8880/1213/1213/3828
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Os Backyardigans 24H
+http://listaccess.me:8880/1213/1213/3831
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Os Simpsons 24H
+http://listaccess.me:8880/1213/1213/8413
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Patati e Patata 24H
+http://listaccess.me:8880/1213/1213/3826
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Patrula Canina 24H
+http://listaccess.me:8880/1213/1213/7597
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Pegue o Pombo 24H
+http://listaccess.me:8880/1213/1213/9841
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Peppa Pig 24H
+http://listaccess.me:8880/1213/1213/7207
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Pepe Legal 24H
+http://listaccess.me:8880/1213/1213/13582
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Pica Pau 24H
+http://listaccess.me:8880/1213/1213/3832
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",PJ Masks 24H
+http://listaccess.me:8880/1213/1213/15142
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Pole Position 24H
+http://listaccess.me:8880/1213/1213/11721
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Popeye 24H
+http://listaccess.me:8880/1213/1213/12940
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Power Rangers 24H
+http://listaccess.me:8880/1213/1213/12027
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Punk a Levada da Breca 24H
+http://listaccess.me:8880/1213/1213/14116
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Scooby Doo 24H
+http://listaccess.me:8880/1213/1213/7602
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Show da Luna 24H
+http://listaccess.me:8880/1213/1213/7991
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",South Parks 24H
+http://listaccess.me:8880/1213/1213/7206
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Supershock 24H
+http://listaccess.me:8880/1213/1213/11718
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Spectroman 24H
+http://listaccess.me:8880/1213/1213/12860
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Thundercats 24H
+http://listaccess.me:8880/1213/1213/7205
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Tico e Teco 24H
+http://listaccess.me:8880/1213/1213/7197
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Tom e Jerry 24H
+http://listaccess.me:8880/1213/1213/8287
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Turma da Monica 24H
+http://listaccess.me:8880/1213/1213/14242
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Ultraman 24H
+http://listaccess.me:8880/1213/1213/12861
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",Yu Yu Hakusho 24H
+http://listaccess.me:8880/1213/1213/9543
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4243/nzvCNB.png" group-title="CANAIS ADULTOS",Playboy [Alter]
+http://listaccess.me:8880/1213/1213/7224
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4243/nzvCNB.png" group-title="CANAIS ADULTOS",Playboy HD
+http://listaccess.me:8880/1213/1213/8436
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4243/nzvCNB.png" group-title="CANAIS ADULTOS",Playboy TV
+http://listaccess.me:8880/1213/1213/2225
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4243/nzvCNB.png" group-title="CANAIS ADULTOS",Sextreme
+http://listaccess.me:8880/1213/1213/2196
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4243/nzvCNB.png" group-title="CANAIS ADULTOS",Sextreme [Alter]
+http://listaccess.me:8880/1213/1213/7223
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4243/nzvCNB.png" group-title="CANAIS ADULTOS",Sexy Hot
+http://listaccess.me:8880/1213/1213/2195
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4243/nzvCNB.png" group-title="CANAIS ADULTOS",Sexy Hot [Alter]
+http://listaccess.me:8880/1213/1213/7222
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4243/nzvCNB.png" group-title="CANAIS ADULTOS",Trans
+http://listaccess.me:8880/1213/1213/18412
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4243/nzvCNB.png" group-title="CANAIS ADULTOS",Trans 2
+http://listaccess.me:8880/1213/1213/18413
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4243/nzvCNB.png" group-title="CANAIS ADULTOS",Venus
+http://listaccess.me:8880/1213/1213/2147
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4243/nzvCNB.png" group-title="CANAIS ADULTOS",Venus [Alter]
+http://listaccess.me:8880/1213/1213/7221
