@@ -1,0 +1,880 @@
+#EXTM3U
+
+#PLAYLISTV: pltv-logo="http://i66.tinypic.com/vxg12r.png" pltv-name="Canal Futucandroid" pltv-description=TV ONLINE para PlaylisTV/IPTV" pltv-cover="http://i67.tinypic.com/r1j2n6.png" pltv-author="Silvana Bastos" pltv-site="" pltv-email="futucadrois@gmail.com" pltv-phone=""
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",BBB 1 SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/65097
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",BBB CAM 1 SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/71465
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",BBB CAM 10 SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/71447
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",BBB CAM 2 SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/71463
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",BBB CAM 3 SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/71461
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",BBB CAM 4 SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/71459
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",BBB CAM 5 SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/71457
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",BBB CAM 6 SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/71455
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",BBB CAM 7 SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/71453
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",BBB CAM 8 SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/71451
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",BBB CAM 9 SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/71449
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",GLOBO NEWS SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37589
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",GLOBO RJ SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37597
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",GLOBO SP SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37601
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",MAIS GLOBOSAT SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37636
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",CANAL DO BOI SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68763
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",CANAL FUTEBOL SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68764
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",CHEFE TV SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68771
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="", EUROSPORT SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68814
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",HOT MUSIC SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68880
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",REAL MADRID TV SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68944
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="", VH1 SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/69008
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",A&E SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37488
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",A&E SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68744
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",AMC SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37490
+
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",ANIMAL PLANET SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37492
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",ARTE 1 SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68749
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",AXN SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68751
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",BABY TV SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37498
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",BAND NEWS SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37501
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",BAND SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37499
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",BAND SPORTS SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68758
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",BIS SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37505
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",BOOMERANG SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68761
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",CANAL BRASIL SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68762
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",CANAL RURAL SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68765
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",CANAL SONY SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68767
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",CANÇÃO NOVA SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37514
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",CARTOON NETWORK SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37515
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",CINEMAX SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37517
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",CNN INTERNACIONAL SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68774
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",COMBATE SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37519
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",COMEDY CENTRAL SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68778
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",CURTA! SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37523
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",DISCOVERY CHANNEL SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37525
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",DISCOVERY CIVILIZATION SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68783
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",DISCOVERY HOME & HEALTH SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68785
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",DISCOVERY KIDS HD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37532
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",DISCOVERY SCIENCE SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68789
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",DISCOVERY THEATER SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68791
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",DISCOVERY TURBO SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37537
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",DISCOVERY WORLD SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37539
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",DISNEY CHANNEL SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37541
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",DISNEY JUNIOR SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37543
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",DISNEY XD SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68801
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",E! SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68803
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",ESPN + SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37548
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",ESPN BRASIL SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37550
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",ESPN EXTRA SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37552
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",ESPN SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37547
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",FISH TV SD (2)
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",FOOD NETWORK SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68817
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",FOX LIFE HD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37568
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",FOX LIFE SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68821
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",FOX PREMIUM 1 SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68823
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",FOX PREMIUM 2 SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68825
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",FOX SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37565
+
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",FOX SPORTS 2 SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37575
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",FOX SPORTS SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37573
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",FUTURA SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68832
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",FX SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68834
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",GLOOB SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68860
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",GLOOBINHO SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37614
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",GNT SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68862
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",H2 SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68864
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",HBO 2 SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68866
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",HBO FAMILY SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68868
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",HBO PLUS E SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37626
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",HBO PLUS SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37625
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",HBO SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37619
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",HBO SIGNATURE SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68877
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",I-SAT SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68881
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",INVESTIGATION DISCOVERY SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68883
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",LIFETIME SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68885
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",MAX PRIME E SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37641
+
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",MAX PRIME SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37640
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",MAX SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37638
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",MAX SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68890
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",MAX UP SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37643
+
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",MEGAPIX SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37645
+
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",MTV LIVE SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/54489
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",MTV SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37647
+
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",MULTISHOW SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68899
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",MUSIC BOX BRASIL SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68900
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",NATIONAL GEOGRAPHIC KIDS SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37655
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",NATIONAL GEOGRAPHIC SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37653
+
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",NATIONAL GEOGRAPHIC WILD SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68906
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",NBR SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37659
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",NHK SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68908
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",NICK JR SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37660
+
+
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",NICKELODEON HD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37663
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",OFF SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68914
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",PARAMOUNT CHANNEL SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68916
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",PLAY TV SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68917
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",PLAYKIDS SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/54713
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",PREMIERE 2 SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37668
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",PREMIERE 2 SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68921
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",PREMIERE 3 SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37670
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",PREMIERE 3 SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68923
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",PREMIERE 4 SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37672
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",PREMIERE 4 SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68925
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",PREMIERE 5 SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37674
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",PREMIERE 5 SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68927
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",PREMIERE 6 SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37676
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",PREMIERE 6 SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68929
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",PREMIERE 7 SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37678
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",PREMIERE 7 SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68931
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",PREMIERE 8 SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68932
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",PREMIERE CLUBES SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68934
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",TABELA JOGOS PREMIERE SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37754
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",PRIME BOX BRASIL SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37682
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",RECORD NEWS SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68947
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",RECORD SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37684
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",RECORD SP SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37688
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",RECORDTV RIO SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/54709
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",REDE BRASIL SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37690
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",REDE RECORD SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68951
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",REDE TV SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37691
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",REDE VIDA SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37693
+
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",SBT SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68956
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",SIC SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68957
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",SPACE SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37699
+
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",SPORTV 2 SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37702
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",SPORTV 3 SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37704
+
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",SPORTV SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68965
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",STUDIO UNIVERSAL SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68967
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",SYFY SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68969
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",TBS SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37709
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",TCM SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37711
+
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",TELECINE ACTION SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68973
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",TELECINE CULT SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37714
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",TELECINE FUN SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37716
+
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",TELECINE PIPOCA SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37718
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",TELECINE PREMIUM SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37720
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",TELECINE TOUCH SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37722
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",TERRA VIVA SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37724
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",TLC SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37725
+
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",TNT SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37727
+
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",TNT SERIES SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37729
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",TOONCAST SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37731
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",TRUTV SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37741
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",TV APARECIDA SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37734
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",TV BOA VONTADE SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37507
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",TV BRASIL SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37735
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",TV CÂMARA SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37736
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",TV CULTURA SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68995
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",TV ESCOLA SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37737
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",TV GLOOBINHO SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68999
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",TV JUSTICA SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37733
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",TV NOVO TEMPO SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/69002
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",TV RA TIM BUM SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/69003
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",TV SENADO SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37732
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",UNIVERSAL CHANNEL SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/69005
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",VH1 MEGA HITS SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37747
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",VH1 SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37745
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",VIVA SD (1)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37748
+
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",WARNER CHANNEL SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/69012
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/1767/HbIa15.png" group-title="",WOOHOO SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/69013
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H 101 DALMATAS
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18133
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H 3 PALAVRINHAS
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/32052
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H A BRUXINHA SABRINA
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18132
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H A FAMÍLIA ADDAMS 1992
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18131
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H A NOSSA TURMA
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18129
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H A PANTERA COR DE ROSA
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37765
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H A PEQUENA SEREIA
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18128
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H A TURMA DO CHARLIE BROWN E SNOOPY
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18127
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H A TURMA DO PATETA
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18126
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H A VACA E O FRANGO
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18125
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H A VIDA MODERNA DE ROCKO
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18124
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H ALADDIN DESENHO ANIMADO
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/32954
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H ANDY PANDA
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/34924
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H ANIMANIACS
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18123
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H AS AVENTURAS DE JACKIE CHAN
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/29363
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H AS AVENTURAS DE PIGGLEY WINKS
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/54473
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H AS AVENTURAS DE TINTIM
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/62027
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H AS MENINAS SUPERPODEROSAS
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/29362
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H AS TARTARUGAS NINJA
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/34923
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H AS TRAPALHADAS DE FLAPJACK
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18122
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H AVATAR LIVRO 1 2 3
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/34922
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H BABY LOONEY TOONES
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37766
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H BACKYARDIGANS
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/25756
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H BAKUGAN
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18121
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H BARNEY E SEUS AMIGOS
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/53422
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H BEN 10 2006 - 2008
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/59261
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H BEN 10 FORÇA ALIENÍGENA 2008 - 2010
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/59262
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H BEN 10 OMNIVERSE 2012 - 2014
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/59263
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H BEN 10 SUPREMACIA ALIENÍGENA 2010 - 2012
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/59264
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H BEYBLADE
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18120
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H BEYBLADE G REVOLUTION 2003
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/59265
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H BEYBLADE METAL FUSION 2010
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/59266
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H BEYBLADE V FORCE 2002
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/59267
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H BIBO PAI E BOB FILHO
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18119
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H BICUDO
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18118
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H BUCKY JIBAKU KUN
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18117
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H BUZZ LIGHTYEAR DO COMANDO
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/32953
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H CADILLACS E DINOSSAUROS
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/32952
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H CAPITÃO PLANETA
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/32951
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H CARMEN SANDIEGO
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/32950
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H CASTELO RÁ TIM BUM
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/32955
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H CAVERNADO DRAGAO
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/34921
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H COELHO RICOCHETE
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18114
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H COLEÇÃO BOB ZOOM
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18113
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H CONTOS DA CRYPTA ANIMAÇÃO
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18112
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H CORAGEM O CÃO COVARDE
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18111
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H CORRIDA ESPACIAL
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18110
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H CORRIDA MALUCA
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18109
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H DANNY PHANTOM 2004 - 2007
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/59268
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H DE VOLTA PARA O FUTURO
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/34920
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H DEBY E LOID
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/34919
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H DENIS O PIMENTINHA
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18108
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H DON DRÁCULA
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18107
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H DORA A AVENTUREIRA
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18106
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H DOUG
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37764
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H DRAGON BALL GT
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/25758
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H DRAGON BALL Z SAGA DE CELL
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18032
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H DRAGON BALL Z SAGA DE FREEZA
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18031
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H DRAGON BALL Z SAGA DE GARLIC JR
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18030
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H DRAGON BALL Z SAGA DE MAJIN BOO
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18029
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H DRAGON BALL Z SAGA DO TORNEIO DO OUTRO MUNDO
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18027
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H DRAGON BALL Z SAGA DOS ANDROIDES
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18028
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H DRAGON BALL Z SAGA DOS SAYAJINS
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18026
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H DRAKE & JOSH
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18105
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H DUCK TALES
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18104
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H EEK! THE CAT
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18103
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H ESCOLINHA DO PROFESSOR RAIMUNDO
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/34799
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H ESQUADRÃO ESPECIAL WINSPECTOR
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/32949
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H ESQUILO SEM GRILO
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18102
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H EU SOU O MAXIMO
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/62026
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H FABULAS DA DISNEY
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18101
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H FAMILIA DINOSSAURO
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/32819
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H FORMIGA ATÓMICA
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18100
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H FRANKENSTEIN JUNIOR
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18099
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H FREAKAZOID
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18098
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H GALINHA PINTADINHA
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/32051
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H GARFIELD E SEUS AMIGOS
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/25757
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H GASPARZINHO E AMIGOS
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/34918
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H GATO FELIX
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/62025
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H GO DIEGO GO
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/29374
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H GUNDAM WING
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18097
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H HAMTARO
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18096
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H HELLO KITTY
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/54474
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H HOMEM PÁSSARO
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18095
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H HOT WHEELS BATTLE FORCE 5
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18094
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H ILHA DOS DESAFIOS
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18093
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H INVASOR ZIM
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/29361
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H IRMÃO DO JOREL
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18092
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H JAMBO E RUIVÃO
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18091
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H JOHNNY BRAVO
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18090
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H JONNY QUEST
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18089
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H JOSIE E AS GATINHAS
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/32948
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H JUBEI CHAN THE NINJA GIRL
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18088
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H KENAN E KELL
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18087
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H KICK BUTTOWSKI
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18086
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H KND A TURMA DO BAIRRO
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18085
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H LAZY TOWN
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/54480
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H LIGEIRINHO
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/34917
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H LULA LELÉ
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18084
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H LULUZINHA
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/34916
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H MAGUILA O GORILA
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/62024
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H MANDA CHUVA
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18083
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H MANUAL DO NED
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18082
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H MARTIN MYSTERY
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/54482
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H MEDABOTS
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18081
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H MEGAMAN
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18080
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H MEGAS XRL
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18079
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H MORANGUINHO CLÁSSICO
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/54481
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H MORTAL KOMBAT
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18077
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H MOSQUITO MOSQUETE E MOSCARDO
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/32946
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H MR. BEAN
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18076
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H MUCHA LUCHA
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18075
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H MÚSCULO TOTAL
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/54486
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H MUTANTE REX 2010 - 2013
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/59269
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H O ACAMPAMENTO DE LAZLO
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18074
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H O GATO DE BOTAS
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/37763
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H O INSPETOR
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18073
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H O MÁSKARA 1995 - SÉRIA ANIMADA
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18072
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H O ONIBUS MÁGICO
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18071
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H O PEQUENO SCOOBY DOO
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/34915
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H O PEQUENO URSO 1995
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/62022
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H O QUE HA DE NOVO SCOOBY DOO
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/34914
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H O SHOW DO NOVO PICA-PAU
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18070
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H O SHOW DO ZÉ COLMEIA
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18069
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H O XODÓ DA VOVÓ
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/34798
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H OS ANIMAIS DO BOSQUE DOS VINTENS
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/62021
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H OS CASTORES PIRADOS
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18068
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H OS CAVALEIROS DOS ZODIACOS COMPLETO
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/19791
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H OS CAVALEIROS DOS ZODIACOS SAGA DE ASGARD
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/19794
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H OS CAVALEIROS DOS ZODIACOS SAGA DE HADES
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/19798
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H OS CAVALEIROS DOS ZODIACOS SAGA DE POSEIDON
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/19793
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H OS CAVALEIROS DOS ZODIACOS SAGA DO SANTUÁRIO
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/19795
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H OS JETSONS
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18067
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H OS JOVENS TITÃS 2003 - 2006
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/59270
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H OS PINGUINS DE MADAGASCAR
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/34913
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H OS SETE MONSTRINHOS
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/54483
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H OS SUPER PATOS
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18066
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H OS URSINHOS GUMMI
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/32945
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H OS VALENTES COWBOYS DE MOO MESA
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18065
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H OS VIDEOS MAIS INCRIVEIS DO MUNDO
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/54475
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H PARTOBA
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/54476
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H PATRULHA ESTELAR
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18064
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H PEGADINHAS JOÃO KLEBER
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/52487
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H PEGADINHAS SILVIO SANTOS
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/52488
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H PEPA PIG
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18063
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H PERDIDOS NO ESPAÇO
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/32944
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H PERNALONGA E SUA TURMA
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/34912
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H PHINEAS E FERB
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/34911
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H PICA PAU (WOODY WOODPECKER)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18062
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H PINKY E CÉREBRO
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18061
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H PLANET SURVIVAL
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18060
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H POLICIA 24H
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/53423
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H POPEYE 75TH ANNIVERSARY
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18059
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H RECRUTA ZERO
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18057
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H REDAKAI
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/54484
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H RIQUINHO
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18056
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H ROAD RUNNER AND WILE E COYOTE
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18055
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H ROCKET POWER
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/32943
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H SAKURA CARD CAPTORS
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/25755
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H SAMURAI WARRIORS
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18054
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H SÉRIE HÉRCULES
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18053
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H SHAMAN KING
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18052
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H SHE-RA
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/25754
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H SHINZO
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18051
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H SHURATO
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18050
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H SILVERHAWKS (LEGENDADO)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/19796
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H SÍTIO DO PICAPAU AMARELO
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/29359
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H SPACE GOST
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18048
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H SPEED RACER A NOVA GERACAO
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/34910
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H SPEED RACER CLÁSSICO
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/34909
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H SUPER MARIO BROS 3
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18047
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H TARTARUGA TOUCHÉ E DUM DUM
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18046
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H TARZAN
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18045
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H TARZAN O REI DA SELVA
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/62020
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H TAZ-MANIA
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18044
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H TEAM GALAXY
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/54485
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H TELETUBBIES CLÁSSICO
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/54477
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H TELETUBBIES NOVO
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/54478
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H TELETUBBIES STOP MOTION
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/54479
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H TESTE DE FIDELIDADE
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/54487
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H THE OBLONGS
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18043
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H THOMAS E SEUS AMIGOS
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/53424
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H THUNDERCATS
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18042
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H TIMÃO E PUMBA
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18041
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H TOM & JERRY
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18040
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H TOURADAS
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/53425
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H TUNEL DO TEMPO
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18039
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H TUTUBARÃO
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18038
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H URSINHOS CARINHOS
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18037
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H VALE DOS DINOSSAUROS
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18036
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H WALLY GATOR
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18035
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H XUXA SÓ PARA BAIXINHOS BOX 1 AO 12
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/25753
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H ZATCH BELL
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18034
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H ZÉ BUSCAPÉ
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/18033
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H JASPION
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/63337
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H ULTRAMEN
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/63336
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H AS MUMIAS VIVAS
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/64099
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/3264/CUk4N2.png" group-title="CANAIS 24 HORAS",24H LARVAS
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/65018
+
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4243/nzvCNB.png" group-title="CANAIS ADULTOS",VENUS SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/69006
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4243/nzvCNB.png" group-title="CANAIS ADULTOS",PLAYBOY SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/69024
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4243/nzvCNB.png" group-title="CANAIS ADULTOS",SEXTREME SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/69025
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4243/nzvCNB.png" group-title="CANAIS ADULTOS",SEXY HOT SD (2)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/69026
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4243/nzvCNB.png" group-title="CANAIS ADULTOS",SEXTREME SD
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68665
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4243/nzvCNB.png" group-title="CANAIS ADULTOS",SEX HOT SD 
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68666
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4243/nzvCNB.png" group-title="CANAIS ADULTOS",PLAYBOY SD 
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/68680
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4243/nzvCNB.png" group-title="CANAIS ADULTOS", EVIL ANGEL TV SD (4)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/69039
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4243/nzvCNB.png" group-title="CANAIS ADULTOS", HOT CLUB 03 SD (4)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/69038
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4243/nzvCNB.png" group-title="CANAIS ADULTOS",PASSIEXXX SD (4)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/69037
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4243/nzvCNB.png" group-title="CANAIS ADULTOS", PINK O SD (4)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/69036
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4243/nzvCNB.png" group-title="CANAIS ADULTOS",PLAYBOY TV SD (4)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/69035
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4243/nzvCNB.png" group-title="CANAIS ADULTOS",SEXSEX SD (4)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/69034
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4243/nzvCNB.png" group-title="CANAIS ADULTOS",SEXTREME SD (4)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/69033
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4243/nzvCNB.png" group-title="CANAIS ADULTOS",SEXY HOT SD (4)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/69032
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4243/nzvCNB.png" group-title="CANAIS ADULTOS",VENUS 2 SD (4)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/69031
+#EXTINF:-1 tvg-logo="https://imageshack.com/a/img922/4243/nzvCNB.png" group-title="CANAIS ADULTOS",VENUS SD (4)
+http://srvpremium.co:8080/BrunoPS41/ysUAIIrJ4X/69030
